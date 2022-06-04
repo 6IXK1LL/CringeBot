@@ -1,12 +1,12 @@
-# 🤦‍♀️ **Kreange**
+<h1 align="center" style="font-weight: bold">🤦‍♀️ Kreanje</h1>
 
-> What is it?
+![Kreanje](https://cdn.discordapp.com/attachments/975025066607775816/982628866269007942/kreanje.png)
 
-> Kreange - bot for moderation in discord chats.
+<h4 align="center">Bot for moderation in discord chats</h4>
 
 ---
 
-> How to activate a bot?
+<h1 style="font-weight: bold">⚙️ How to activate a bot?</h1>
 
 
 ### 🐧 <b>Linux</b>:
