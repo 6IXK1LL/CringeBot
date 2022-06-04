@@ -2,7 +2,7 @@
 
 ![Kreanje](https://cdn.discordapp.com/attachments/975025066607775816/982628866269007942/kreanje.png)
 
-<h4 align="center">Bot for moderation in discord chats</h4>
+<h4 align="center">👮‍♀️ Bot for moderation in discord chats</h4>
 
 ---
 
