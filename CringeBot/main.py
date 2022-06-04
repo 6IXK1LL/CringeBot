@@ -60,6 +60,7 @@ async def kiss(ctx, member):
         colour = BOT_COLOR
     )
 
+    await ctx.channel.purge(limit = 1)
     await ctx.send(embed = offer)
 
 
